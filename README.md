@@ -5,14 +5,12 @@ Software Engineer
 -----------------
 
 I am a Software Engineer passionate about realizing innovative solutions that accelerate efficiency and effectiveness for organizational success; creating reliable and easy to use systems for any user.  
-Passionate about Linux and open source software, I like to read, learn new technologies and be always updated.\
-\
-I am currently a Semi-Senior Software Engineer for Wipro Limited.
+Passionate about Linux and open source software, I like to read, learn new technologies and be always updated.
+
 
 *   🌍  I'm based in Puebla, MX
 *   🖥️  See my portfolio at [Website](http://armandolg.com)
 *   ✉️  You can contact me at [armandolinaresg@gmail.com](mailto:armandolinaresg@gmail.com)
-*   🚀  I'm currently working on [Wipro](http://www.wipro.com/)
 *   🧠  I'm learning all about Java
 
 ### Skills 
